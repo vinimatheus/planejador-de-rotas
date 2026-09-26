@@ -20,7 +20,9 @@ Gratuito, open source e sem chave de API.
 [Roadmap](#-roadmap) ·
 [English](#-english)
 
-<img src="docs/screenshot-desktop.jpg" alt="Planejador de Rotas: rota com 6 entregas em São Paulo traçada no mapa" width="100%">
+<img src="docs/demo.gif" alt="Demonstração: 8 CEPs colados de uma vez, rota de 96,9 km otimizada para 61,3 km" width="100%">
+
+<sub>8 entregas em São Paulo: <b>96,9 km → 61,3 km (−37%)</b> com um clique</sub>
 
 </div>
 
